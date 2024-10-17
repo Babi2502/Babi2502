@@ -23,7 +23,7 @@ Thank you for visiting my profile!
 <details> 
 <summary><h2>🛠️ Languages and tools</h2></summary>
 
-## ⚙ Languagues:
+## ⚙ Languages:
 <div style="display: inline_block" align="center">
  <img align="center" alt="Python" height="47" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
  <img align="center" alt="MATLAB" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg"/>
