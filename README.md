@@ -5,7 +5,7 @@
 </p>
 
 <div style="display: inline_block" align="justify">
-Sou estudante de Engenharia de Controle e Automação na UNESP, com interesse na área de automação médica. Tenho experiência como professora de plantão de matemática e física no ensino fundamental e médio e participei de competições internas de robótica com Lego. Na universidade, lidero a área de controle da Liga Universitária de Robótica (LUNAR) e conduzo uma pesquisa de Iniciação Científica sobre caracterização de motores de indução trifásicos. Tenho experiência em programação nas linguagens C, Python, MATLAB e Ladder, além de possuir inglês intermediário/avançado e alemão iniciante.
+Sou estudante de Engenharia de Controle e Automação na UNESP, com interesse na área de automação médica. Na universidade, lidero a área de controle da Liga Universitária de Robótica (LUNAR) e conduzo uma pesquisa de Iniciação Científica sobre caracterização de motores de indução trifásicos. Tenho experiência em programação nas linguagens C, Python, MATLAB e Ladder, além de possuir inglês intermediário/avançado e alemão iniciante.
 
 Aqui no meu perfil, você encontrará alguns projetos que demonstram minha paixão pela tecnologia e inovação. Estou sempre disposta a colaborar em outros projetos e trocar ideias com mentes criativas.
 
