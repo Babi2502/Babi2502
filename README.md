@@ -1,29 +1,29 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=15F71E&center=true&vCenter=true&width=435&lines=Olá!;Eu+sou+Barbara+Santo+André" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=15F71E&center=true&vCenter=true&width=435&lines=Hey!;I'm+Barbara+Santo+André" alt="Typing SVG" /></a>
 </p>
 
 <div style="display: inline_block" align="justify">
-Sou estudante de Engenharia de Controle e Automação na UNESP, com interesse na área de automação médica. Na universidade, lidero a área de controle da Liga Universitária de Robótica (LUNAR) e conduzo uma pesquisa de Iniciação Científica sobre caracterização de motores de indução trifásicos. Tenho experiência em programação nas linguagens C, Python, MATLAB e Ladder, além de possuir inglês intermediário/avançado e alemão iniciante.
+I'm a Control and Automation Engineering student at UNESP with a particular interest in medical automation. At university, I lead the control division of the University Robotics League (LUNAR) and conduct scientific research focused on the characterization of three-phase induction motors. I have programming experience in C, Python, MATLAB, and Ladder, and I am proficient in intermediate/advanced English and beginner-level German.
 
-Aqui no meu perfil, você encontrará alguns projetos que demonstram minha paixão pela tecnologia e inovação. Estou sempre disposta a colaborar em outros projetos e trocar ideias com mentes criativas.
+Here on my profile, you’ll find projects that showcase my passion for technology and innovation. I’m always open to collaborating on projects and exchanging ideas with creative minds.
 
-Se você quiser saber mais sobre minha experiência em automação, robótica e pesquisa científica, sinta-se à vontade para entrar em contato pelos links disponíveis no meu perfil. Será um prazer conversar sobre tecnologia e inovação com você.
+If you'd like to know more about my experience in automation, robotics, and scientific research, feel free to contact me through the links on my profile. It would be a pleasure to discuss technology and innovation with you.
 
-Obrigada por visitar meu perfil!
+Thank you for visiting my profile!
 </div>
 
-## 🚀 Estatísticas:
+## 🚀 Statistics:
 <div style="display: inline_block" align="center">
  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Babi2502&show_icons=true&theme=tokyonight"/> 
  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Babi2502&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 <details> 
-<summary><h2>🛠️ Linguagens e Ferramentas</h2></summary>
+<summary><h2>🛠️ Languages and tools</h2></summary>
 
-## ⚙ Linguagens:
+## ⚙ Languagues:
 <div style="display: inline_block" align="center">
  <img align="center" alt="Python" height="47" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
  <img align="center" alt="MATLAB" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg"/>
