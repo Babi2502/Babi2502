@@ -29,6 +29,7 @@ Thank you for visiting my profile!
  <img align="center" alt="MATLAB" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg"/>
  <img align="center" alt="Arduino" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg"/>
  <img align="center" alt="C" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
+ <img align="center" alt="Cpp" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
  <img align="center" alt="Fusion 360" height="50" width="50" src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_08cbb05caf3271616f7fef03768dfbf5/fusion-360.png"/>
 </div>
 </details>
